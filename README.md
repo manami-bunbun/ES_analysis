@@ -19,7 +19,7 @@ ___
 
 ### File Description:
 
-- **ES_analysis.ipynb: ** 
+- **ES_analysis.ipynb:**
     Jupyter notebook / Google Colaboratory (oridinally, for Google Colab)
     
 - **ESanalysis.py:**
